@@ -1,4 +1,4 @@
-# dcit-202-Andriod-app
+# Andriod-app Currency-Converter
 new repository
 
 ## Group Members ID and Username
